@@ -9,6 +9,8 @@ console = Console(record=True, width=100)
 # Tree class
 # https://rich.readthedocs.io/en/stable/tree.html
 
+# Embed Holopin.io Badge
+
 tree = Tree(f"[link=https://kevindienst.blog]Kevin Dienst",
     guide_style="bold cyan",
     )
@@ -20,7 +22,7 @@ rto_tree = tree.add(":boom: Red Team Operations")
 about = """\
 :wave: I'm an information security practitioner who specializes in red team operations, security monitoring, and Python. 
 [green]Read my blog [link=https://kevindienst.blog]kevindienst.blog[/]
-[green]Follow me on twitter [link=https://twitter.com/kevindienst]@kevindienst[/]"""
+[green]Follow me on Fosstodon [link=https://fosstodon.org/@axi0m]@axi0m[/]"""
 
 # Panel class
 # Used to generate border for about content
