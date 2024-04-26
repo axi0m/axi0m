@@ -50,6 +50,8 @@
 | -----| ----- | ---- |
 | ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat) | Proficient | 6 |
 | ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat) | Beginner | 2 |
+| ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat) | Beginner | 2 |
+| ![Ansible Badge](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat) | Beginner | 2 |
 
 ### :spider_web: Web
 
