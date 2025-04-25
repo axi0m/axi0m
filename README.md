@@ -82,6 +82,6 @@
 
 ## Social
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/kevindienst) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109507388694226163?domain=https%3A%2F%2Ffosstodon.org&style=flat&color=green)](https://fosstodon.org/@axi0m)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/kevindienst) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109507388694226163?domain=https%3A%2F%2Finfosec.exchange&style=flat&color=green)](https://infosec.exchange/@axi0m)
 
 *Note: Years of experience are not necessarily cumulative, areas and skills may overlap across years
